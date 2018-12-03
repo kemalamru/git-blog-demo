@@ -6,3 +6,5 @@ Text From Master
 Adding some Text
 Editing 
 Editing third branch
+
+Adding branch test content
