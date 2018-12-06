@@ -2,6 +2,7 @@ Initial Content
 Adding more Content
 Adding some Content from test Branch
 
+Text From Master
 Adding some Text
 Editing 
 Editing third branch
