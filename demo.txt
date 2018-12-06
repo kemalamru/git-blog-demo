@@ -4,6 +4,8 @@ Adding some Content from test Branch
 
 Text From Master
 Adding some Text
+
+Third Branch new text
 Editing 
 Editing third branch
 
